@@ -1,0 +1,2 @@
+rootProject.name='P10PS-Know Your Facts'
+include ':app'
